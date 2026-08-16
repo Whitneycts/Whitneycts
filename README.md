@@ -12,7 +12,7 @@
 
 ### 🚀 Sobre mim
 
-- 🎓 Estudante de um curso de Tecnologia, com foco em desenvolvimento de software
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Fatec Taquaritinga
 - 💻 Construindo projetos fullstack e explorando diferentes stacks (Java, C#, PHP, JS)
 - 🌱 Sempre estudando algo novo — trilhas de .NET, algoritmos e lógica de programação
 
